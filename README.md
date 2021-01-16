@@ -1,1 +1,3 @@
-# bot
+<?php
+echo 'arkiller'
+?>
